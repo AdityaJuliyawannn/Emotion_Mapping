@@ -1,4 +1,4 @@
-**Emotional_Mapping**
+# Emotional_Mapping
 
 📊 Emotion Detection from Video using NLP
 📌 Overview
