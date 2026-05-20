@@ -17,7 +17,9 @@ Dataset berbentuk CSV dengan format:
 id,video,emotion
 1,https://www.instagram.com/reel/xxx,Surprise
 2,https://www.instagram.com/reel/yyy,Surprise
+
 📌 Penjelasan Kolom
+
 id → ID unik data
 video → Link video (Instagram Reels)
 emotion → Label emosi (ground truth)
